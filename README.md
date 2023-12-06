@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently focused on learning **JavaScript and then I would like to learn Vue.js or React.**
 
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.chzbgr.com/full/8270686464/h7779056E/coding-is-an-art))
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@vc_743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@vc_743" height="30" width="40" /></a>
