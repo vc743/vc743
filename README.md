@@ -1,3 +1,4 @@
+![marioBanner](https://github.com/vc743/vc743/assets/88216894/2415caf0-5e36-43e4-be9c-17ca25810b3b)
 <h1 align="center">Hi 👋, I'm Victor Alejandro Contreras Vargas</h1>
 <h3 align="center">A frontend developer from Dominican Republic</h3>
 
