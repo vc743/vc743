@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focused on learning **JavaScript and then I would like to learn Vue.js or React.**
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/13UZisxBxkjPwI))
+![Alt Text][https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/13UZisxBxkjPwI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
