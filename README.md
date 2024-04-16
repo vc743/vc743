@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer from Dominican Republic</h3>
 <img align="right" width="200" height="200" src="https://media1.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47j754sddziyyuxx3x43adeg21p5cc27qmk75fb02z&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently focused on learning **Angular**.
+- 🌱 I’m currently focused on learning **React**.
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
