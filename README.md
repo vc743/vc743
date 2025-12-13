@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Victor Alejandro Contreras Vargas</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
-- 🌱 I’m currently learning how to use **Zustand and Tanstack Query**
+- 🌱 I’m currently learning how to use **PostgreSQL**
 
 - 💬 Ask me about **React, Typescript, TailwindCSS**
 
